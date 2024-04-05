@@ -22,6 +22,13 @@
 
         <p>{{ $descrizione }}</p>
 
+        
+        <div class="d-flex">
+            <img src="https://a.cdn-hotels.com/gdcs/production0/d320/a38a0c20-5863-11e8-b0ec-0242ac11000c.jpg?impolicy=fcrop&w=800&h=533&q=medium" alt="">
+            <div>
+                <img class="d-flex align-items-baseline" src="https://www.bandiere.it/uploads/2016-6-6/420-272/italy.jpg" alt="">
+            </div>
+        </div>
     </div>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>

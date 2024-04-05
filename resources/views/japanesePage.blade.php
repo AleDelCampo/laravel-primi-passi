@@ -21,8 +21,15 @@
        
         <h1>{{ $harowarudo }}</h1>
 
-
         <p>{{ $setsumei }}</p>
+
+        <div class="d-flex">
+            <img src="https://5giornate.it/wp-content/uploads/2023/01/fioritura-dei-ciliegi-Giappone.jpg" alt="">
+            <div>
+                <img class="d-flex align-items-baseline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Naval_ensign_of_the_Empire_of_Japan.svg/338px-Naval_ensign_of_the_Empire_of_Japan.svg.png" alt="">
+            </div>
+        </div>
+
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
