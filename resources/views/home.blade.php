@@ -17,9 +17,11 @@
     </nav>  
 
     <div class="container p-4">
+        
         <h1>{{ $ciaomondo }}</h1>
 
-        <p>In informatica Hello world! (in italiano "Ciao mondo!") è un semplice programma dimostrativo, frequentemente utilizzato nella didattica di base, che produce come risultato - output - la scritta "Hello world!" o altre varianti, sfruttando i cosiddetti canali standard (standard output)[1]. Il programma non fa altro dunque che far comparire a schermo questa scritta e, per tradizione, diversi manuali di programmazione lo citano spesso per mostrarlo come primo esempio di lessico, sintassi e semantica basilare di un certo linguaggio di programmazione.</p>
+        <p>{{ $descrizione }}</p>
+
     </div>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>

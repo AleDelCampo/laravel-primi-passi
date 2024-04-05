@@ -22,7 +22,7 @@
         <h1>{{ $harowarudo }}</h1>
 
 
-        <p>Konpyūtāsaiensu ni oite harōwārudo! (Itaria-go de `harōwārudo!') Wa, kiso kyōiku de hinpan ni shiyō sa reru tanjun'na demonsutorēshon puroguramudeari, kekka to shite `harōwārudo!' To iu tango o shutsuryoku shimasu. Matawa, iwayuru hyōjun cha ​​ neru (hyōjun shutsuryoku) o riyō suru ta no bariantodesu [1 ]. Shitagatte, puroguramu wa kono kijutsu o gamen'ue ni hyōji suru koto igai nani mo okonaimasen. Dentō-teki ni, samazamana puroguramingu manyuarude wa, tokutei no puroguramingu gengo no yōgo-shū, kōbun, oyobi kihon-tekina semantikusu no saisho no rei to shite kore o in'yō suru koto ga yoku arimasu.</p>
+        <p>{{ $setsumei }}</p>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>

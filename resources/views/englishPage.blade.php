@@ -21,8 +21,8 @@
        
         <h1>{{ $helloworld }}</h1>
 
+        <p>{{ $description }}</p>
 
-        <p>In computer science Hello world! (in Italian "Hello world!") is a simple demonstration program, frequently used in basic teaching, which produces as a result - output - the words "Hello world!" or other variants, exploiting the so-called standard channels (standard output)[1]. The program therefore does nothing other than make this writing appear on the screen and, traditionally, various programming manuals often cite it to show it as the first example of the lexicon, syntax and basic semantics of a certain programming language.</p>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
